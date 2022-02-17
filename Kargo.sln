@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kargo", "Kargo\Kargo.csproj", "{584DCFC9-72B8-41A1-9793-95EED46105FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kargokatman", "Kargokatman\Kargokatman.csproj", "{301C9742-A2E2-4631-989D-B4DEAE6491CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584DCFC9-72B8-41A1-9793-95EED46105FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584DCFC9-72B8-41A1-9793-95EED46105FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584DCFC9-72B8-41A1-9793-95EED46105FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584DCFC9-72B8-41A1-9793-95EED46105FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301C9742-A2E2-4631-989D-B4DEAE6491CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301C9742-A2E2-4631-989D-B4DEAE6491CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301C9742-A2E2-4631-989D-B4DEAE6491CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301C9742-A2E2-4631-989D-B4DEAE6491CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA58CF5-FC04-41BF-9AD0-209C8D5D1AE0}
+	EndGlobalSection
+EndGlobal
